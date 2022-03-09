@@ -1,0 +1,10 @@
+Untuk cara instalasi socket io
+https://socket.io/
+
+Untuk run aplikasi 
+
+npm install //jika folder node_modulus tidak ada
+
+npm run chat
+
+Go to localhost:3000
